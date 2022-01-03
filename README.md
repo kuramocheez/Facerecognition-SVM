@@ -19,8 +19,8 @@ Kelompok 7
 
 # Cara Menggunakan
 Tools dan Bahasa Pemrograman Yang Digunakan
-Tools: VSCode dengan ekstensi .ipynb
-Bahasa: Python (Jupyter Notebook)
+- Tools: VSCode dengan ekstensi .ipynb
+- Bahasa: Python (Jupyter Notebook)
 
 Perlu Menginstall Package Yang Digunakan
 - Numpy
